@@ -15,7 +15,7 @@
 - 🔭 Currently working on: **Blockchain-based Projects**  
 - 🌱 Learning: **AI, Web3, and Advanced Backend Development**  
 - 💬 Ask me about: **Python, React, Web Development, DSA**  
-- 📫 Reach me at: **[Your Email or LinkedIn]**  
+- 📫 Reach me at: **www.linkedin.com/in/siddhartha-chatterjee-46b291275**  
 - ⚡ Fun fact: **I love building AI-powered apps & gaming tools!**  
 
 ---
